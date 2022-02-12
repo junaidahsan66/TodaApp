@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="rise_and_shine">Rise and Shine!</string>
+    <string name="head_desc">There\'s a lot going on today.There are 6 todos \n scheduled and the first one start at 10:00</string>
+</resources>
